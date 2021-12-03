@@ -13,5 +13,5 @@ npm i yt-search
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
 
-echo "DONE INSTALLING ALL PACKAGE REQUIRE, TINGGAL RUN npm start"
+node main.js
 npm start
